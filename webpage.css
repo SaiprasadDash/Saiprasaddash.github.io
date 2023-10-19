@@ -1,0 +1,25 @@
+.a{
+    text-align: center;
+}
+body{
+    background-image: url(b3.jpg);
+    background-size: cover;
+}
+table{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+img{
+    
+    margin-right: 2000px;
+    height: 200px;
+    border-radius: 50%;
+    padding: 10px;
+    margin: 20px;
+}
+h1{
+    text-align: center;
+}
+.b{
+    margin-left: 100px;
+}
